@@ -2,7 +2,9 @@ sap.ui.define([
 	"sap/ui/core/UIComponent"
 ], function (UIComponent) {
 	"use strict";
-////test 2
+
+
+////tttttttt
 	return UIComponent.extend("opensap.myapp.Component", {
 
 		metadata : {
